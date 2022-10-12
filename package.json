@@ -1,0 +1,14 @@
+{
+  "name": "TrabalhoFullStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Geovane Cadorin <geovane.cadorin@fatec.sp.gov.br>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
