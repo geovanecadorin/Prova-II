@@ -102,4 +102,4 @@ server.delete("/funcionarios/:index", (req, res) => {
   return res.json(funcionarios);
 });
 
-server.listen(3000);
+server.listen(process.env.PORT);
