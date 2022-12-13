@@ -8,21 +8,21 @@ const funcionarios = [{
 
   id: 0,
   nome: 'Lucas',
-  funcao: 'Entregador',
+  funcao: 'Jogador_Casa',
   salario: '2000.00'
 },
 
 {
   id: 1,
   nome: 'Leoncio',
-  funcao: 'Fazendeiro',
+  funcao: 'Jogador_Casa',
   salario: '5000.00'
 },
 
 {
   id: 2,
   nome: 'Goku',
-  funcao: 'Lutador',
+  funcao: 'Jogador_Visitante',
   salario: '500.00'
 },
 
